@@ -1,0 +1,8 @@
+laravel-docker
+├── docker-compose.yml
+├── nginx
+│   └── default.conf
+├── php
+│   └── Dockerfile
+├── src
+    └── (Your Laravel project files will be here)
